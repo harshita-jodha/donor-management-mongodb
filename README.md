@@ -52,7 +52,6 @@ git clone https://github.com/harshita-jodha/donor-management-mongodb.git
 cd commons-charity-app
 ```
 
-Replace `YOUR_REPOSITORY_URL` with your actual GitHub repository URL.
 
 ### 2. Configure the Backend
 
