@@ -30,11 +30,12 @@ A full-stack charity donation platform built with **React, Node.js, Express, and
 - bcrypt
 
 ## Project Structure
-
 ```text
-commons-charity-app/
-├── backend/    # Express API and MongoDB integration
-└── frontend/   # React application built with Vite
+donor-management-mongodb/
+├── .vscode/    # Editor configuration
+├── backend/    # Node.js, Express API and MongoDB integration
+├── frontend/   # React frontend application
+└── README.md   # Project documentation
 ```
 
 ## Prerequisites
